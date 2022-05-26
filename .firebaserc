@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "app1-42099": {
+      "hosting": {
+        "app": [
+          "app1-42099"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "app1-42099"
+  }
+}
